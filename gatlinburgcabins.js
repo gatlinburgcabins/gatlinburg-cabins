@@ -11,7 +11,7 @@ var mapDatabase = {
       stars: "⭐⭐⭐⭐⭐ 4.8",
       desc: "Perfect romantic couples retreat with premium hot tub.",
       tip: "Perfect romantic couples retreat with premium hot tub. ⚠️ <strong>Road Warning:</strong> Fully paved access but has a moderately steep mountain incline [1.2.1].",
-      link: "/p/sunset-ridge-cabin.html"
+      link: "https://thestylednests.blogspot.com/2026/06/ill-be-honest-with-you-when-i-first.html"
     },
     {
       name: "Bear Creek Lodge 🌲",
@@ -20,7 +20,7 @@ var mapDatabase = {
       stars: "⭐⭐⭐⭐⭐ 4.9",
       desc: "Family-friendly spacious property with gorgeous creek views.",
       tip: "Family-friendly spacious property with gorgeous creek views. ✅ <strong>Access:</strong> 100% flat paved road with standard parking driveway [1.2.1].",
-      link: "/p/bear-creek-lodge.html"
+      link: "https://thestylednests.blogspot.com/2026/06/ill-be-honest-with-you-when-i-first.html"
     },
     {
       name: "Smoky Mountain Retreat ⛰️",
@@ -29,7 +29,7 @@ var mapDatabase = {
       stars: "⭐⭐⭐⭐☆ 4.2",
       desc: "Secluded high-altitude cabin offering majestic mountain views.",
       tip: "Secluded high-altitude cabin offering majestic mountain views. ⚠️ <strong>Access Alert:</strong> Features an extremely steep, narrow gravel road [1.2.1]!",
-      link: "/p/smoky-mountain-retreat.html"
+      link: "https://thestylednests.blogspot.com/2026/06/ill-be-honest-with-you-when-i-first.html"
     }
   ],
   
@@ -42,7 +42,7 @@ var mapDatabase = {
       stars: "⭐⭐⭐⭐⭐ 4.8",
       desc: "Tennessee's oldest pancake house (since 1960) adjacent to The Village.",
       tip: "Tennessee's oldest pancake house (since 1960) [1.1.5]. Highly recommend trying the Sweet Potato or Pecan pancakes with cinnamon cream [1.1.5]! Cash only.",
-      link: "/p/things-to-do-in-gatlinburg.html"
+      link: "https://thestylednests.blogspot.com/2026/06/ill-be-honest-with-you-when-i-first.html"
     },
     {
       name: "Crockett's Breakfast Camp 🍳",
