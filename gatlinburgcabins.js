@@ -11,7 +11,7 @@ var mapDatabase = {
       stars: "⭐⭐⭐⭐⭐ 4.8",
       desc: "Perfect romantic couples retreat with premium hot tub.",
       tip: "Perfect romantic couples retreat with premium hot tub. ⚠️ <strong>Road Warning:</strong> Fully paved access but has a moderately steep mountain incline [1.2.1].",
-      link: "https://thestylednests.blogspot.com/2026/06/ill-be-honest-with-you-when-i-first.html"
+      link: "/2026/06/ill-be-honest-with-you-when-i-first.html"
     },
     {
       name: "Bear Creek Lodge 🌲",
