@@ -20,7 +20,7 @@ var mapDatabase = {
       stars: "⭐⭐⭐⭐⭐ 4.9",
       desc: "Family-friendly spacious property with gorgeous creek views.",
       tip: "Family-friendly spacious property with gorgeous creek views. ✅ <strong>Access:</strong> 100% flat paved road with standard parking driveway [1.2.1].",
-      link: "https://thestylednests.blogspot.com/2026/06/ill-be-honest-with-you-when-i-first.html"
+      link: "/2026/06/gatlinburg-cabins-indoor-waterfalls.html"
     },
     {
       name: "Smoky Mountain Retreat ⛰️",
